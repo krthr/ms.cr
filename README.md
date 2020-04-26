@@ -11,7 +11,7 @@ Use this package to easily convert various time formats to milliseconds.
    ```yaml
    dependencies:
      ms:
-       github: your-github-user/ms
+       github: krthr/ms.cr
    ```
 
 2. Run `shards install`
